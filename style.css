@@ -878,12 +878,12 @@ html {
 
 @media(max-width:568px) {
   .contact .right form input {
-    width: 330px;
+    width: 310px;
   }
 
   .contact .right form textarea {
-    min-width: 330px;
-    max-width: 330px;
+    min-width: 310px;
+    max-width: 310px;
   }
 
   .contact .left {
