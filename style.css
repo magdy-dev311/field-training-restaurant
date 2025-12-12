@@ -581,6 +581,14 @@ html {
     flex-direction: column;
     align-items: center;
   }
+
+  .menu .top h2 {
+    font-size: 34px;
+  }
+
+  .menu .top p {
+    font-size: 14px;
+  }
 }
 
 @media (max-width:568px) {
@@ -707,6 +715,11 @@ html {
     width: 520px;
     height: 300px;
   }
+
+  .gallery .top h2 {
+    font-size: 34px;
+  }
+
 }
 
 @media (max-width:568px) {
