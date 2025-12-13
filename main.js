@@ -11,8 +11,3 @@ links.forEach((x) => {
     list.classList.toggle("list");
   };
 });
-
-// let hreo = document.getElementById("hero");
-// hreo.onclick = () => {
-//   list.classList.toggle("list");
-// };
